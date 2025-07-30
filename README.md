@@ -77,7 +77,7 @@ Serão avaliados os seguintes pontos:
 3. Faça commits frequentes e claros.
 
 Insomnia
-![Insomnia](./Novo-Ins-1.png)
+![Insomnia](./assets/Novo-Ins-1.png)
 ![Insomnia](./Novo-Ins-2.png)
 ![Insomnia](./Novo-Ins-3.png)
 ![Insomnia](./Novo-Ins-4.png)

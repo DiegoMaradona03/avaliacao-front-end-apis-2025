@@ -78,7 +78,7 @@ Serão avaliados os seguintes pontos:
 
 Insomnia
 ![Insomnia](./assets/Novo-Ins-1.png)
-![Insomnia](./Novo-Ins-2.png)
-![Insomnia](./Novo-Ins-3.png)
-![Insomnia](./Novo-Ins-4.png)
-![Insomnia](./Novo-Ins-5.png)
+![Insomnia](./assets/Novo-Ins-2.png)
+![Insomnia](./assets/Novo-Ins-3.png)
+![Insomnia](./assets/Novo-Ins-4.png)
+![Insomnia](./assets/Novo-Ins-5.png)
